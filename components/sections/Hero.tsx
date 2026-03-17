@@ -160,10 +160,12 @@ export const Hero = () => {
               {/* Image Container */}
               <div className="relative w-full h-full rounded-2xl overflow-hidden border border-cyber-blue/30 glow-border group">
                 {/* Profile Image */}
-                <img
+                <Image
                   src="/profile.jpg"
                   alt="Shubham Solat Profile"
+                  fill
                   className="w-full h-full object-cover"
+                  priority
                 />
 
                 {/* Grayscale Filter Overlay (for hover effect) */}
