@@ -30,21 +30,21 @@ export const Footer = () => {
             whileInView={{ opacity: 1, y: 0 }}
             transition={{ duration: 0.6, delay: 0.1 }}
           >
-            <h4 className="font-semibold text-sm mb-4">Quick Links</h4>
+            <h4 className="font-semibold text-sm mb-4">Social Links</h4>
             <ul className="space-y-2 text-sm text-gray-400">
               <li>
-                <a href="#projects" className="hover:text-cyber-blue transition-colors">
-                  Projects
+                <a href="https://www.linkedin.com/in/shubham-solat-010b66248" target="_blank" rel="noopener noreferrer" className="hover:text-cyber-blue transition-colors">
+                  LinkedIn
+                </a>
+              </li>
+              <li>
+                <a href="https://wa.me/919021816728" target="_blank" rel="noopener noreferrer" className="hover:text-cyber-blue transition-colors">
+                  WhatsApp
                 </a>
               </li>
               <li>
                 <a href="mailto:shubhamsolat36@gmail.com" className="hover:text-cyber-blue transition-colors">
                   Email
-                </a>
-              </li>
-              <li>
-                <a href="https://github.com" className="hover:text-cyber-blue transition-colors">
-                  GitHub
                 </a>
               </li>
             </ul>

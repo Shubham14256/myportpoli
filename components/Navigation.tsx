@@ -60,13 +60,16 @@ export const Navigation = () => {
         </div>
 
         {/* CTA Button */}
-        <motion.button
+        <motion.a
+          href="https://wa.me/919021816728"
+          target="_blank"
+          rel="noopener noreferrer"
           whileHover={{ scale: 1.05 }}
           whileTap={{ scale: 0.95 }}
-          className="px-6 py-2 rounded-lg border border-cyber-blue/50 text-cyber-blue hover:bg-cyber-blue/10 font-medium text-sm transition-all"
+          className="px-6 py-2 rounded-lg bg-gradient-to-r from-green-500/90 to-green-600 text-white hover:shadow-lg hover:shadow-green-500/50 font-medium text-sm transition-all flex items-center gap-2"
         >
-          Contact
-        </motion.button>
+          <span>💬</span> WhatsApp
+        </motion.a>
       </div>
     </motion.nav>
   )
