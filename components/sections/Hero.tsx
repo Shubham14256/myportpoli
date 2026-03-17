@@ -93,22 +93,21 @@ export const Hero = () => {
             {/* CTA Buttons */}
             <motion.div variants={itemVariants} className="flex flex-col sm:flex-row gap-4 pt-4">
               <motion.a
-                href="https://wa.me/919021816728"
-                target="_blank"
-                rel="noopener noreferrer"
-                whileHover={{ scale: 1.05 }}
-                whileTap={{ scale: 0.95 }}
-                className="px-8 py-4 rounded-lg bg-gradient-to-r from-green-500/90 to-green-600 text-white font-bold hover:shadow-lg hover:shadow-green-500/50 transition-all text-center flex items-center justify-center gap-2"
-              >
-                <span>💬</span> Connect on WhatsApp
-              </motion.a>
-              <motion.a
                 href="#projects"
                 whileHover={{ scale: 1.05 }}
                 whileTap={{ scale: 0.95 }}
                 className="px-8 py-4 rounded-lg bg-cyber-blue text-cyber-dark font-bold hover:shadow-lg hover:shadow-cyber-blue/50 transition-all text-center"
               >
                 View My Work
+              </motion.a>
+              <motion.a
+                href="/Shubham_Solat___Resume.pdf"
+                download
+                whileHover={{ scale: 1.05 }}
+                whileTap={{ scale: 0.95 }}
+                className="px-8 py-4 rounded-lg border border-cyber-blue/50 text-cyber-blue hover:bg-cyber-blue/10 font-bold transition-all text-center"
+              >
+                Download Resume
               </motion.a>
             </motion.div>
 
