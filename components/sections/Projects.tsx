@@ -39,14 +39,14 @@ export const Projects = () => {
       links: [{ label: 'View Project', url: 'https://drive.google.com/file/d/1g1nrPDSs0FDAmdvS5Gi_BzvLd2We5CL9/view?usp=sharing', variant: 'secondary' }],
     },
     {
-      title: 'Vortex Logistics AI',
-      subtitle: 'Decision-Centric Optimization Engine',
+      title: 'Shubhstra Properties — AI Real Estate CRM',
+      subtitle: 'Autonomous WhatsApp Sales Funnel',
       description:
-        'Real-time logistics optimization platform with advanced decision-making AI. Integrates real-time crypto data and market analysis for informed logistics decisions.',
-      tech: ['Next.js', 'Python', 'AI/ML', 'Real-Time APIs', 'Cloud Infrastructure'],
-      gradient: 'from-yellow-400 to-orange-500',
-      highlights: ['Real-Time Processing', 'AI-Driven', 'Market Integration'],
-      links: [{ label: 'View Project', url: '#', variant: 'secondary' }],
+        'An autonomous WhatsApp sales funnel engineered for real estate brokers to eliminate lead leakage. Features an interactive bot that provides instant 1BHK/2BHK/3BHK property details, delivers PDF brochures directly in-chat, and automates 24/7 site-visit scheduling through Calendly integration.',
+      tech: ['TypeScript', 'Supabase', 'Meta Webhooks', 'WhatsApp Cloud API'],
+      gradient: 'from-blue-500 to-blue-600',
+      highlights: ['Conversational Conversion', 'Relational Architecture', '24/7 Automation'],
+      links: [{ label: 'View Demo', url: 'https://youtube.com/shorts/Hx4dksvb9G0', variant: 'secondary' }],
     },
     {
       title: 'Healthcare Automation Bot',
