@@ -101,7 +101,7 @@ export const Hero = () => {
                 View My Work
               </motion.a>
               <motion.a
-                href="/Shubham_Solat___Resume.pdf"
+                href="https://drive.google.com/file/d/1pFz_A9ywEM63mOvFUj6hrIuA51uVvb_V/view?usp=sharing"
                 download
                 whileHover={{ scale: 1.05 }}
                 whileTap={{ scale: 0.95 }}
