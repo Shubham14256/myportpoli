@@ -101,7 +101,7 @@ export const Hero = () => {
                 View My Work
               </motion.a>
               <motion.a
-                href="https://drive.google.com/file/d/1pFz_A9ywEM63mOvFUj6hrIuA51uVvb_V/view?usp=sharing"
+                href="https://drive.google.com/file/d/1dyOp7Tj2kqJnj0_MGUEynN7MkgOoTuXE/view?usp=sharing"
                 download
                 whileHover={{ scale: 1.05 }}
                 whileTap={{ scale: 0.95 }}
