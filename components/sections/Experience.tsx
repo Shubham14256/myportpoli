@@ -6,7 +6,7 @@ import { motion } from 'framer-motion'
 export const Experience = () => {
   const experiences = [
     {
-      title: 'Founder & Lead Developer',
+      title: 'Founder Engineer & Lead Developer',
       company: 'Shubhstra Tech Services',
       duration: 'Oct 2024 - Present',
       description: 'Leading a cross-functional team of 4 engineers to build AI-powered automation platforms.',
@@ -18,18 +18,18 @@ export const Experience = () => {
       ],
       tech: ['Next.js', 'Gemini API', 'Supabase', 'Webhooks', 'TypeScript'],
     },
-    {
-      title: 'IT Specialist',
-      company: 'Vodafone Idea Limited',
-      duration: '8 months',
-      description: 'Specialist role in IT operations and technical support',
-      highlights: [
-        'Provided technical support and IT solutions',
-        'Worked on system optimization and troubleshooting',
-        'Managed IT infrastructure and user support',
-      ],
-      tech: ['Node.js', 'Python', 'System Administration'],
-    },
+    // {
+    //   title: 'IT Specialist',
+    //   company: 'Vodafone Idea Limited',
+    //   duration: '8 months',
+    //   description: 'Specialist role in IT operations and technical support',
+    //   highlights: [
+    //     'Provided technical support and IT solutions',
+    //     'Worked on system optimization and troubleshooting',
+    //     'Managed IT infrastructure and user support',
+    //   ],
+    //   tech: ['Node.js', 'Python', 'System Administration'],
+    // },
     {
       title: 'Web Development Intern',
       company: 'InnovativeHive Tech Solution',
