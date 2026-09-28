@@ -73,7 +73,7 @@ export const Hero = () => {
             {/* Headline */}
             <motion.div variants={itemVariants}>
               <p className="text-xl md:text-2xl text-gray-300 font-light leading-relaxed">
-                AI & Full-Stack Engineer | Founding Engineer @{' '}
+                AI & Full-Stack | Founding Engineer @{' '}
                 <span className="text-cyber-blue font-semibold">Shubhstra Tech</span>
               </p>
               <p className="text-gray-500 text-sm mt-2 font-mono">
