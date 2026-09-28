@@ -6,7 +6,7 @@ import { motion } from 'framer-motion'
 export const Experience = () => {
   const experiences = [
     {
-      title: 'Founder Engineer & Lead Developer',
+      title: 'Founding Engineer & Lead Developer',
       company: 'Shubhstra Tech Services',
       duration: 'Oct 2024 - Present',
       description: 'Leading a cross-functional team of 4 engineers to build AI-powered automation platforms.',
