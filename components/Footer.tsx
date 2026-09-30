@@ -38,6 +38,11 @@ export const Footer = () => {
                 </a>
               </li>
               <li>
+                <li>
+                <a href="https://github.com/Shubham14256" target="_blank" rel="noopener noreferrer" className="hover:text-cyber-blue transition-colors">
+                  Github
+                </a>
+              </li>
                 <a href="https://wa.me/919021816728" target="_blank" rel="noopener noreferrer" className="hover:text-cyber-blue transition-colors">
                   WhatsApp
                 </a>
