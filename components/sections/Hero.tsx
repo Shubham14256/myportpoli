@@ -84,9 +84,12 @@ export const Hero = () => {
             {/* Description */}
             <motion.div variants={itemVariants} className="max-w-md">
               <p className="text-gray-400 leading-relaxed text-sm md:text-base">
-                Leading cross-functional teams to architect AI-powered platforms that solve
-                real-world problems. From healthcare automation to logistics optimization,
-                I craft systems that scale.
+                I am a CS undergrad obsessed with building highly scalable
+                backend systems and autonomous AI architectures. In my sophomore year, I
+                founded Shubhstra Tech to bridge the gap between academic theory and real-
+                world execution. Today, I combine a founder's bias for action with an
+                engineer's rigor for code quality.
+                Actively seeking Software Engineering Internships in high-velocity startups.
               </p>
             </motion.div>
 
