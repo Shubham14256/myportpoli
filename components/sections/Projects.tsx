@@ -19,6 +19,26 @@ export const Projects = () => {
       featured: true,
     },
     {
+      title: 'Healthcare Automation Bot',
+      subtitle: 'WhatsApp-Integrated CRM',
+      description:
+        'AI-powered healthcare automation platform integrated with WhatsApp. Handles patient communication, appointment scheduling, and follow-ups.',
+      tech: ['Next.js', 'Gemini API', 'Meta Cloud API', 'Supabase', 'Node.js'],
+      gradient: 'from-green-400 to-emerald-500',
+      highlights: ['WhatsApp Integration', 'Healthcare Grade', 'Automation'],
+      links: [{ label: 'View Project', url: 'https://youtube.com/shorts/LxAA_22gAUE?si=dx34QDAIDZhsFnds ', variant: 'secondary' }],
+    },
+    {
+      title: 'Shubhstra Properties — AI Real Estate CRM',
+      subtitle: 'Autonomous WhatsApp Sales Funnel',
+      description:
+        'An autonomous WhatsApp sales funnel engineered for real estate brokers to eliminate lead leakage. Features an interactive bot that provides instant 1BHK/2BHK/3BHK property details, delivers PDF brochures directly in-chat, and automates 24/7 site-visit scheduling through Calendly integration.',
+      tech: ['TypeScript', 'Supabase', 'Meta Webhooks', 'WhatsApp Cloud API'],
+      gradient: 'from-blue-500 to-blue-600',
+      highlights: ['Conversational Conversion', 'Relational Architecture', '24/7 Automation'],
+      links: [{ label: 'View Demo', url: 'https://youtube.com/shorts/Hx4dksvb9G0', variant: 'secondary' }],
+    }
+    {
       title: 'Route-Rakshak',
       subtitle: 'AI Logistics Super-App',
       description:
@@ -38,26 +58,8 @@ export const Projects = () => {
       highlights: ['500+ req/sec', '99.9% Uptime', 'Real-Time Streaming'],
       links: [{ label: 'View Project', url: 'https://drive.google.com/file/d/1g1nrPDSs0FDAmdvS5Gi_BzvLd2We5CL9/view?usp=sharing', variant: 'secondary' }],
     },
-    {
-      title: 'Shubhstra Properties — AI Real Estate CRM',
-      subtitle: 'Autonomous WhatsApp Sales Funnel',
-      description:
-        'An autonomous WhatsApp sales funnel engineered for real estate brokers to eliminate lead leakage. Features an interactive bot that provides instant 1BHK/2BHK/3BHK property details, delivers PDF brochures directly in-chat, and automates 24/7 site-visit scheduling through Calendly integration.',
-      tech: ['TypeScript', 'Supabase', 'Meta Webhooks', 'WhatsApp Cloud API'],
-      gradient: 'from-blue-500 to-blue-600',
-      highlights: ['Conversational Conversion', 'Relational Architecture', '24/7 Automation'],
-      links: [{ label: 'View Demo', url: 'https://youtube.com/shorts/Hx4dksvb9G0', variant: 'secondary' }],
-    },
-    {
-      title: 'Healthcare Automation Bot',
-      subtitle: 'WhatsApp-Integrated CRM',
-      description:
-        'AI-powered healthcare automation platform integrated with WhatsApp. Handles patient communication, appointment scheduling, and follow-ups.',
-      tech: ['Next.js', 'Gemini API', 'Meta Cloud API', 'Supabase', 'Node.js'],
-      gradient: 'from-green-400 to-emerald-500',
-      highlights: ['WhatsApp Integration', 'Healthcare Grade', 'Automation'],
-      links: [{ label: 'View Project', url: 'https://youtube.com/shorts/LxAA_22gAUE?si=dx34QDAIDZhsFnds ', variant: 'secondary' }],
-    },
+    ,
+    
   ]
 
   const containerVariants = {
