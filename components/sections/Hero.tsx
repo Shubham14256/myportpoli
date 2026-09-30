@@ -87,8 +87,8 @@ export const Hero = () => {
                 I am a CS undergrad obsessed with building highly scalable
                 backend systems and autonomous AI architectures. In my sophomore year, I
                 founded Shubhstra Tech to bridge the gap between academic theory and real-
-                world execution. Today, I combine a founder's bias for action with an
-                engineer's rigor for code quality.
+                world execution. Today, I combine a founder&apos;s bias for action with an
+                engineer&apos;s rigor for code quality.
                 Actively seeking Software Engineering Internships in high-velocity startups.
               </p>
             </motion.div>
