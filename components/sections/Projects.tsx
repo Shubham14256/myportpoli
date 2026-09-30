@@ -37,7 +37,7 @@ export const Projects = () => {
       gradient: 'from-blue-500 to-blue-600',
       highlights: ['Conversational Conversion', 'Relational Architecture', '24/7 Automation'],
       links: [{ label: 'View Demo', url: 'https://youtube.com/shorts/Hx4dksvb9G0', variant: 'secondary' }],
-    }
+    },
     {
       title: 'Route-Rakshak',
       subtitle: 'AI Logistics Super-App',
