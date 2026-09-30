@@ -58,7 +58,7 @@ export const Projects = () => {
       highlights: ['500+ req/sec', '99.9% Uptime', 'Real-Time Streaming'],
       links: [{ label: 'View Project', url: 'https://drive.google.com/file/d/1g1nrPDSs0FDAmdvS5Gi_BzvLd2We5CL9/view?usp=sharing', variant: 'secondary' }],
     },
-    ,
+    
     
   ]
 
