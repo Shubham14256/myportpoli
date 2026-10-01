@@ -8,7 +8,7 @@ export const Experience = () => {
     {
       title: 'Founding Engineer & Lead Developer',
       company: 'Shubhstra Tech Services',
-      duration: 'Oct 2024 - Present',
+      duration: 'Oct 2024 - Sep 2026',
       description: 'Leading a cross-functional team of 4 engineers to build AI-powered automation platforms.',
       highlights: [
         'Engineered an AI-powered WhatsApp CRM & Automation Bot for healthcare using Next.js and Gemini API',
